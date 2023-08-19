@@ -29,7 +29,13 @@
 
 ###
 
-<p align="left">I'm Satya Adhiyaksa from Indonesia<br><br>- 🔭 I’m working as Backend Web Developer<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I do Hike</p>
+<p align="left">
+🌏 Greetings from Indonesia! I'm Satya Adhiyaksa. <br><br>
+🚀 Thriving in the intricate world of backend development. <br>
+📘 Currently deep diving into Go, and always hungry for knowledge. <br>
+🌄 Nature lover? Absolutely! Hiking is my escape. <br>
+❓ Curious about what makes technology tick and inspired by the endless possibilities it offers.
+</p>
 
 ###
 
