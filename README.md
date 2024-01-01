@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -69,10 +65,3 @@
   <img src="https://streak-stats.demolab.com?user=satyaadhiyaksaardy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/satyaadhiyaksaardy/satyaadhiyaksaardy/output/snake.svg" alt="Snake animation" />
-
-###
